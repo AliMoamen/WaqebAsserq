@@ -1,0 +1,66 @@
+body{
+  color: white;
+  overflow-x: hidden;
+}
+h1 , h2 , h3 , a {
+  font-family: 'Cairo', sans-serif;
+}
+h1{
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+h2{
+  font-size: 50px;
+}
+h3{
+  color:#bbdfc8;
+  font-size: 30px;
+}
+#illustration{
+  width: 350px;
+  margin-right: 17%;
+}
+p{
+  font-family: 'Tajawal', sans-serif;
+  font-size: 20px;
+}
+.heading-section{
+  background-color: #75cfb8;
+  padding: 100px;
+}
+.card{
+  background-color: #bbdfc8;
+  padding: 30px;
+  margin: 2% 4%;
+  text-align: center;
+  border-radius: 20px;
+}
+.icons{
+  width: 100px;
+}
+.features{
+  font-size: 22px;
+  margin-top: 20px;
+}
+.features-section{
+  text-align: center;
+  padding: 13px;
+}
+.footer-section{
+  text-align: center;
+  background-color: #75cfb8;
+  padding: 56px;
+  width: 100%;
+}
+.footer-section p{
+  margin: 30px 0;
+}
+.btn{
+  background-color: white;
+  color: #75cfb8;
+  width: 140px;
+  padding: 10px;
+}
+.btn:hover{
+  color: #bbdfc8;
+}
